@@ -1,0 +1,8 @@
+a=10
+b=20
+
+c=a*b
+
+print("the multiply of a&b: ",c)
+
+print ("multiply of two number has been sucessfully pushed to github")
